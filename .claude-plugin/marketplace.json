@@ -1,0 +1,13 @@
+{
+    "name": "pmc-plugins",
+    "owner": {
+        "name": "Jaehyun Kim"
+    },
+    "plugins": [
+        {
+            "name": "pmc",
+            "source": "./plugins/pmc",
+            "description": "code-mapper skill"
+        }
+    ]
+}
