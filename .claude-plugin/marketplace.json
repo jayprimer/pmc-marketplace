@@ -1,13 +1,13 @@
 {
-    "name": "pmc-plugins",
+    "name": "pmc-marketplace",
     "owner": {
-        "name": "Jaehyun Kim"
+        "name": "jayprimer@gmail.com"
     },
     "plugins": [
         {
             "name": "pmc",
             "source": "./plugins/pmc",
-            "description": "code-mapper skill"
+            "description": "Project Manager Claude"
         }
     ]
 }
